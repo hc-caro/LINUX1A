@@ -1,0 +1,10 @@
+Install Virtual Box
+Install Ubunto 16 ISO
+Open Virtual Box
+Select the option "New"
+Name the archiv
+Search and select the iso "Ubuntu"
+Install "Visual Studio Code" and "Git"
+Open Visual Studio Code
+Select "Source Control"
+Copy the reservory from GitHub
